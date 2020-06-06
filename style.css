@@ -288,3 +288,7 @@
 /* .header_area{
     height: 100vh;
 } */
+.contact_page > div > p{
+    letter-spacing: 4px;
+    line-height: 30px;
+}
